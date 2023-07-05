@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do CaAlber 😁
+## Bem-vindo(a) ao perfil do Carlos Boscolo 😁
 
  <div>
-   <a href="https://github.com/CaAlber">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaAlber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaAlber&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/carlos-boscolo">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlos-boscolo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-boscolo&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -21,6 +21,6 @@
  <a href = "mailto:cabrprogram@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlosalbertoboscolo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/CaAlber/CaAlber/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/carlos-boscolo/carlos-boscolo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
